@@ -1,8 +1,9 @@
 title: Mr Dinev's Classes
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: On this site youcan find all the lesson plans for your subject. 
 theme: just-the-docs
 
 url: https://mrdinev.github.io/classes
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Compass: https://heathmont-vic.compass.education
+  Zoran: https://www.zorandinev.com
