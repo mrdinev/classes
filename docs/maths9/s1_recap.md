@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson P1 
+title: Lesson S1 
 nav_order: 2
 parent: Statistics
 grand_parent: Year 9 Maths
