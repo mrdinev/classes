@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Probability
-parent: maths10a
+parent: Year 10 Maths Adv
 nav_order: 2
 has_children: true
 ---
