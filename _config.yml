@@ -44,5 +44,7 @@ just_the_docs:
   collections:
     tests:
       name: Tests
+      nav_fold: false
     tutorials:
       name: Tutorials
+      nav_fold: true
