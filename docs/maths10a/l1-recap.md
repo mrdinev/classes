@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Probability Lesson Page
-parent: probability
-grand_parent: maths10a
+parent: Probability
+grand_parent: Year 10 Maths Adv
 nav_order: 1
 ---
 This is a lesson page
