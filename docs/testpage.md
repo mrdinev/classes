@@ -1,3 +1,8 @@
+---
+layout: default
+title: tespage
+---
+ 
  | Learning Intentions  |
  | :-- |
  |  • To understand how an array is used to list the sample space for experiments with two steps <br>• To understand the difference between experiments that are carried out with replacement and without replacement<br>• To be able to use an array to find the sample space for experiments carried out with replacement or without replacement and determine the probability of associated events 
