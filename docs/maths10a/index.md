@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Year 10 Maths Adv
-nav_order: 2
+nav_order: 100
 has_children: true
 ---
-Home page of Advanced Maths
+Home page of Year 10 Advanced Maths
