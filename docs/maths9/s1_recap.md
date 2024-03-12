@@ -2,7 +2,7 @@
 layout: default
 title: Lesson P1 
 nav_order: 2
-parent: statistics
-grand_parent: maths9
+parent: Statistics
+grand_parent: Year 9 Maths
 ---
 This is the Statistics Lesson 1
