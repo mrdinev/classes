@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Year 9 Maths
+title: Probability
 nav_order: 2
 has_children: true
 parent: Year 9 Maths
