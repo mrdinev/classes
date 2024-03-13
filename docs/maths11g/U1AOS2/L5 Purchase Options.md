@@ -4,7 +4,7 @@ title: L5 Purchase Options
 nav_order: 2
 has_children: true
 grand_parent: Year 11 General Maths
-parent: U1AOS2
+parent: Unit 1 AOS2
 ---
 
 | Key Knowledge                                                                                                                                                                        |
