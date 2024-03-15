@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index File
+title: Child Folder
 nav_order: 10
 has_children: true
 ---

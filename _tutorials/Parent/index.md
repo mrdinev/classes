@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Level 2 Index
+title: Parent Folder
 nav_order: 10
 has_children: true
 ---
