@@ -1,0 +1,10 @@
+baseURL = "https://mrdinev.github.io/classes/"
+languageCode = "en-us"
+title = "Mr Dinev's Classes"
+theme = "relearn"
+
+[params]
+  math = true
+  mermaid = true
+  themeVariant = "blue"
+  collapsibleMenu = true
