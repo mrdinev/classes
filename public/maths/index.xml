@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics :: Mr Dinev&#39;s Classes</title>
-    <link>http://localhost:1313/maths/index.html</link>
+    <link>https://mrdinev.github.io/classes/maths/index.html</link>
     <description>Select your mathematics class from the menu.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/maths/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mrdinev.github.io/classes/maths/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Year 11 Maths Methods</title>
-      <link>http://localhost:1313/maths/methods/year11/index.html</link>
+      <link>https://mrdinev.github.io/classes/maths/methods/year11/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/maths/methods/year11/index.html</guid>
+      <guid>https://mrdinev.github.io/classes/maths/methods/year11/index.html</guid>
       <description>Class Overview Welcome to Year 11 Mathematical Methods.&#xA;Assessment Task Date Weight SAC 1 Term 1 Week 8 20% SAC 2 Term 2 Week 5 20% SAC 3 Term 3 Week 6 20% Exam Term 4 40% Topics Unit 1: Functions and Graphs Unit 2: Algebra and Calculus Unit 3: Calculus Unit 4: Probability and Statistics Resources Formula Sheet</description>
     </item>
   </channel>
