@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "What is a Function? A function maps each input to exactly one output. We write this as $f(x)$.\nLinear Functions A linear function has the form:\n$$f(x) = mx + c$$\nWhere $m$ is the gradient and $c$ is the y-intercept.\nQuadratic Functions A quadratic function has the form:",
     "tags": [],
     "title": "Functions and Graphs",
-    "uri": "/maths/methods/year11/topics/01-functions/index.html"
+    "uri": "/classes/maths/methods/year11/topics/01-functions/index.html"
   },
   {
     "breadcrumb": "Class Resources",
@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "Select your mathematics class from the menu.",
     "tags": [],
     "title": "Mathematics",
-    "uri": "/maths/index.html"
+    "uri": "/classes/maths/index.html"
   },
   {
     "breadcrumb": "Class Resources \u003e Mathematics \u003e Year 11 Maths Methods",
@@ -21,7 +21,7 @@ var relearn_searchindex = [
     "description": "Lesson Overview Subject Year 11 Mathematical Methods Topic Quadratic Functions Duration 60 minutes Framework VTLM 2.0 / Heathmont Model Learning Intentions By the end of this lesson, students will be able to:\nIdentify the key features of a quadratic function including vertex, axis of symmetry, and x-intercepts Sketch the graph of a quadratic function in the form $f(x) = ax^2 + bx + c$ Interpret the effect of changing parameters $a$, $b$, and $c$ on the shape and position of the parabola Success Criteria Students can demonstrate success by:",
     "tags": [],
     "title": "Quadratic Functions - Introduction",
-    "uri": "/maths/methods/year11/topics/01-quadratic-functions/index.html"
+    "uri": "/classes/maths/methods/year11/topics/01-quadratic-functions/index.html"
   },
   {
     "breadcrumb": "Class Resources \u003e Mathematics",
@@ -29,7 +29,7 @@ var relearn_searchindex = [
     "description": "Class Overview Welcome to Year 11 Mathematical Methods.\nAssessment Task Date Weight SAC 1 Term 1 Week 8 20% SAC 2 Term 2 Week 5 20% SAC 3 Term 3 Week 6 20% Exam Term 4 40% Topics Unit 1: Functions and Graphs Unit 2: Algebra and Calculus Unit 3: Calculus Unit 4: Probability and Statistics Resources Formula Sheet",
     "tags": [],
     "title": "Year 11 Maths Methods",
-    "uri": "/maths/methods/year11/index.html"
+    "uri": "/classes/maths/methods/year11/index.html"
   },
   {
     "breadcrumb": "Class Resources",
@@ -37,7 +37,7 @@ var relearn_searchindex = [
     "description": "Select your science class from the menu.",
     "tags": [],
     "title": "Science",
-    "uri": "/science/index.html"
+    "uri": "/classes/science/index.html"
   },
   {
     "breadcrumb": "Class Resources",
@@ -45,7 +45,7 @@ var relearn_searchindex = [
     "description": "Shared resources including formula sheets and past exams.",
     "tags": [],
     "title": "Resources",
-    "uri": "/resources/index.html"
+    "uri": "/classes/resources/index.html"
   },
   {
     "breadcrumb": "Class Resources",
@@ -53,7 +53,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/classes/categories/index.html"
   },
   {
     "breadcrumb": "",
@@ -61,7 +61,7 @@ var relearn_searchindex = [
     "description": "Welcome. Select your class from the menu to access notes, worksheets and resources.",
     "tags": [],
     "title": "Class Resources",
-    "uri": "/index.html"
+    "uri": "/classes/index.html"
   },
   {
     "breadcrumb": "Class Resources",
@@ -69,6 +69,6 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/classes/tags/index.html"
   }
 ]

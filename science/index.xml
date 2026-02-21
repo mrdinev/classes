@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science :: Mr Dinev&#39;s Classes</title>
-    <link>http://localhost:1313/science/index.html</link>
+    <link>https://mrdinev.github.io/classes/science/index.html</link>
     <description>Select your science class from the menu.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mrdinev.github.io/classes/science/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

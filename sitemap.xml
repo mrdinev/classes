@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/maths/methods/year11/topics/01-functions/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-functions/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/maths/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/maths/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/maths/methods/year11/topics/01-quadratic-functions/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-quadratic-functions/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/maths/methods/year11/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/science/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/science/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/resources/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/resources/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/tags/index.html</loc>
   </url>
 </urlset>
