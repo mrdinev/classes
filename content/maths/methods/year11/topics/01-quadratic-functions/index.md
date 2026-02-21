@@ -134,9 +134,9 @@ Students answer on a slip of paper before leaving:
 
 | Resource | Format | Link |
 |---|---|---|
-| Student Worksheet | PDF | [Download](/pdfs/year11-methods/quadratic-functions/worksheet.pdf) |
-| Lesson Slides | PDF | [Download](/pdfs/year11-methods/quadratic-functions/slides.pdf) |
-| Lesson Plan | PDF | [Download](/pdfs/year11-methods/quadratic-functions/lesson-plan.pdf) |
+| Student Worksheet | PDF | [Download](/classes/pdfs/year11-methods/quadratic-functions/worksheet.pdf) |
+| Lesson Slides | PDF | [Download](/classes/pdfs/year11-methods/quadratic-functions/slides.pdf) |
+| Lesson Plan | PDF | [Download](/classes/pdfs/year11-methods/quadratic-functions/lesson-plan.pdf) |
 | Geogebra Parabola Explorer | Web | [Open](https://www.geogebra.org/graphing) |
 | Khan Academy — Quadratics | Video | [Watch](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations) |
 
