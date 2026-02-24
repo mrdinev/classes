@@ -26,19 +26,15 @@ math: true
 
 ---
 
-{{% notice style="learning" title="🎯 Learning Intentions" %}}
-By the end of this lesson, students will be able to:
-
-- Expand and collect like terms in algebraic expressions, including single brackets, double brackets (binomial products), perfect squares, and differences of two squares
+{{% notice style="learning" title="🎯 Learning Intention" %}}
+We are learning to expand brackets and collect like terms in algebraic expressions, including single brackets, double brackets (binomial products), perfect squares, and differences of two squares.
 {{% /notice %}}
 
 {{% notice style="success" title="✅ Success Criteria" %}}
-Students demonstrate success by:
-
-1. Expanding a single bracket expression using the distributive law: $a(b + c) = ab + ac$
-2. Expanding double brackets using the FOIL method
-3. Collecting like terms after expanding
-4. Expanding and simplifying multi-bracket expressions
+1. I can expand a single bracket expression using the distributive law: $a(b + c) = ab + ac$
+2. I can expand double brackets using the FOIL method
+3. I can collect like terms after expanding
+4. I can expand and simplify multi-bracket expressions
 {{% /notice %}}
 
 ---

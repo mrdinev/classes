@@ -26,19 +26,15 @@ math: true
 
 ---
 
-{{% notice style="learning" title="🎯 Learning Intentions" %}}
-By the end of this lesson, students will be able to:
-
-- Find solutions of quadratic equations by factorisation and the null factor theorem
+{{% notice style="learning" title="🎯 Learning Intention" %}}
+We are learning to find solutions of quadratic equations by factorisation and the null factor theorem.
 {{% /notice %}}
 
 {{% notice style="success" title="✅ Success Criteria" %}}
-Students demonstrate success by:
-
-1. Rearranging a quadratic into $ax^2 + bx + c = 0$
-2. Factorising and applying the null factor theorem to find both solutions
-3. Checking solutions by substitution
-4. Setting up and solving a quadratic from a word problem
+1. I can rearrange a quadratic into $ax^2 + bx + c = 0$
+2. I can factorise and apply the null factor theorem to find both solutions
+3. I can check my solutions by substitution
+4. I can set up and solve a quadratic from a word problem
 {{% /notice %}}
 
 ---
