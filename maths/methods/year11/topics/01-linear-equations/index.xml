@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>01 — Reviewing Linear Equations :: Mr Dinev&#39;s Classes</title>
+    <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-linear-equations/index.html</link>
+    <description>Lessons covering Chapter 1: linear equations, simultaneous equations, inequalities, and formulas.&#xA;Lesson Topic 1A Linear equations 1B Constructing linear equations 1C Simultaneous equations 1D Constructing simultaneous linear equations 1E Solving linear inequalities 1F Using and transposing formulas</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://mrdinev.github.io/classes/maths/methods/year11/topics/01-linear-equations/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

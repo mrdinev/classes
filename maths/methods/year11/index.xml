@@ -8,18 +8,11 @@
     <language>en-us</language>
     <atom:link href="https://mrdinev.github.io/classes/maths/methods/year11/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Functions and Graphs</title>
-      <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-functions/index.html</link>
+      <title>Topics</title>
+      <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-functions/index.html</guid>
-      <description>What is a Function? A function maps each input to exactly one output. We write this as $f(x)$.&#xA;Linear Functions A linear function has the form:&#xA;$$f(x) = mx + c$$&#xA;Where $m$ is the gradient and $c$ is the y-intercept.&#xA;Quadratic Functions A quadratic function has the form:</description>
-    </item>
-    <item>
-      <title>Quadratic Functions - Introduction</title>
-      <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-quadratic-functions/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-quadratic-functions/index.html</guid>
-      <description>Lesson Overview Subject Year 11 Mathematical Methods Topic Quadratic Functions Duration 60 minutes Framework VTLM 2.0 / Heathmont Model Learning Intentions By the end of this lesson, students will be able to:&#xA;Identify the key features of a quadratic function including vertex, axis of symmetry, and x-intercepts Sketch the graph of a quadratic function in the form $f(x) = ax^2 + bx + c$ Interpret the effect of changing parameters $a$, $b$, and $c$ on the shape and position of the parabola Success Criteria Students can demonstrate success by:</description>
+      <guid>https://mrdinev.github.io/classes/maths/methods/year11/topics/index.html</guid>
+      <description>Browse lesson resources organised by chapter, following the Cambridge Mathematical Methods Year 11 textbook structure.</description>
     </item>
   </channel>
 </rss>

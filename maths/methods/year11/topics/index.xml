@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics :: Mr Dinev&#39;s Classes</title>
+    <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/index.html</link>
+    <description>Browse lesson resources organised by chapter, following the Cambridge Mathematical Methods Year 11 textbook structure.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://mrdinev.github.io/classes/maths/methods/year11/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 — Reviewing Linear Equations</title>
+      <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-linear-equations/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-linear-equations/index.html</guid>
+      <description>Lessons covering Chapter 1: linear equations, simultaneous equations, inequalities, and formulas.&#xA;Lesson Topic 1A Linear equations 1B Constructing linear equations 1C Simultaneous equations 1D Constructing simultaneous linear equations 1E Solving linear inequalities 1F Using and transposing formulas</description>
+    </item>
+    <item>
+      <title>02 — Reviewing Coordinate Geometry</title>
+      <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/02-coordinate-geometry/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mrdinev.github.io/classes/maths/methods/year11/topics/02-coordinate-geometry/index.html</guid>
+      <description>Lessons covering Chapter 2: distance, midpoints, gradients, equations of lines, parallel and perpendicular lines, and linear models.&#xA;Lesson Topic 2A Distance and midpoints 2B The gradient of a straight line 2C The equation of a straight line 2D Graphing straight lines 2E Parallel and perpendicular lines 2F Families of straight lines 2G Linear models 2H Simultaneous linear equations</description>
+    </item>
+    <item>
+      <title>03 — Quadratics</title>
+      <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/03-quadratics/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mrdinev.github.io/classes/maths/methods/year11/topics/03-quadratics/index.html</guid>
+      <description>Lessons covering Chapter 3: expanding, factorising, solving quadratic equations, graphing parabolas, and the discriminant.&#xA;Lesson Topic 3A Expanding and collecting like terms 3B Factorising 3C Quadratic equations 3D Graphing quadratics 3E Completing the square and turning points 3F Graphing quadratics in polynomial form 3G Solving quadratic inequalities 3H The general quadratic formula 3I The discriminant 3J Solving simultaneous linear and quadratic equations 3K Families of quadratic polynomial functions 3L Quadratic models</description>
+    </item>
+    <item>
+      <title>04 — A Gallery of Graphs</title>
+      <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/04-gallery-of-graphs/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mrdinev.github.io/classes/maths/methods/year11/topics/04-gallery-of-graphs/index.html</guid>
+      <description>Lessons covering Chapter 4: rectangular hyperbolas, truncus, square root graphs, and circles.&#xA;Lesson Topic 4A Rectangular hyperbolas 4B The truncus 4C The graph of $y^2 = x$ 4D The graph of $y = \sqrt{x}$ 4E Circles 4F Determining rules</description>
+    </item>
+    <item>
+      <title>05 — Functions and Relations</title>
+      <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/05-functions-and-relations/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mrdinev.github.io/classes/maths/methods/year11/topics/05-functions-and-relations/index.html</guid>
+      <description>Lessons covering Chapter 5: set notation, domain and range, functions, one-to-one functions, piecewise functions, function notation, and inverse functions.&#xA;Lesson Topic 5A Set notation and sets of numbers 5B Relations, domain and range 5C Functions 5D One-to-one functions and implied domains 5E Piecewise-defined functions 5F Applying function notation 5G Inverse functions 5H Functions and modelling exercises</description>
+    </item>
+  </channel>
+</rss>

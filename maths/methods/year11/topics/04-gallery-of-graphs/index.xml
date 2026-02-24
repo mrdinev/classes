@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>04 — A Gallery of Graphs :: Mr Dinev&#39;s Classes</title>
+    <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/04-gallery-of-graphs/index.html</link>
+    <description>Lessons covering Chapter 4: rectangular hyperbolas, truncus, square root graphs, and circles.&#xA;Lesson Topic 4A Rectangular hyperbolas 4B The truncus 4C The graph of $y^2 = x$ 4D The graph of $y = \sqrt{x}$ 4E Circles 4F Determining rules</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://mrdinev.github.io/classes/maths/methods/year11/topics/04-gallery-of-graphs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

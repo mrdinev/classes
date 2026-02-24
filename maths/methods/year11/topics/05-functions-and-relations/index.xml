@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>05 — Functions and Relations :: Mr Dinev&#39;s Classes</title>
+    <link>https://mrdinev.github.io/classes/maths/methods/year11/topics/05-functions-and-relations/index.html</link>
+    <description>Lessons covering Chapter 5: set notation, domain and range, functions, one-to-one functions, piecewise functions, function notation, and inverse functions.&#xA;Lesson Topic 5A Set notation and sets of numbers 5B Relations, domain and range 5C Functions 5D One-to-one functions and implied domains 5E Piecewise-defined functions 5F Applying function notation 5G Inverse functions 5H Functions and modelling exercises</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://mrdinev.github.io/classes/maths/methods/year11/topics/05-functions-and-relations/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

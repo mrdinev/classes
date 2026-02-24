@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-functions/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-linear-equations/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/03-quadratics/3a-expanding/index.html</loc>
   </url>
   <url>
     <loc>https://mrdinev.github.io/classes/maths/index.html</loc>
   </url>
   <url>
-    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/01-quadratic-functions/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/index.html</loc>
   </url>
   <url>
-    <loc>https://mrdinev.github.io/classes/maths/methods/year11/index.html</loc>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/02-coordinate-geometry/index.html</loc>
   </url>
   <url>
     <loc>https://mrdinev.github.io/classes/science/index.html</loc>
   </url>
   <url>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/03-quadratics/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/03-quadratics/3c-quadratic-equations/index.html</loc>
+  </url>
+  <url>
     <loc>https://mrdinev.github.io/classes/resources/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/04-gallery-of-graphs/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/03-quadratics/3d-graphing-quadratics/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mrdinev.github.io/classes/maths/methods/year11/topics/05-functions-and-relations/index.html</loc>
   </url>
   <url>
     <loc>https://mrdinev.github.io/classes/categories/index.html</loc>
